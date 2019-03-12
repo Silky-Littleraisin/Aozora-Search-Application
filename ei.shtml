@@ -1,0 +1,1241 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>東京大学 大学院 情報理工学系研究科</title>
+<link href="//www.u-tokyo.ac.jp/global/css/default.css" rel="stylesheet" type="text/css">
+<link href="../lecture.css" rel="stylesheet" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a name="top"></a>
+<!--HEADER S-->
+<table width="764" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="10" colspan="4"> </td>
+</tr>
+<tr>
+<td valign="top"><a href="https://www.u-tokyo.ac.jp/" target="_blank"><img src="https://www.u-tokyo.ac.jp/global/banners/banner01_m.gif" alt="東京大学バナー（中）" width="172" height="52" border="0"></a></td>
+<td align="right"><a href="//www.u-tokyo.ac.jp/index/alumni.html" target="_blank"><img src="/image/banner/alumni_s.gif" alt="東大　アラムナイ" width="130" height="35" border="0"></a>
+<a href="http://utf.u-tokyo.ac.jp/" target="_blank"><img src="/image/banner/kikin_s.gif" alt="寄付のご案内" width="130" height="35" border="0"></a></td>
+<td align="right" valign="top">
+<form method="get" action="//www.google.com/u/utcommon">
+<input type="hidden" name="domains" value="i.u-tokyo.ac.jp">
+<input type="hidden" name="sitesearch" value="i.u-tokyo.ac.jp">
+<input type="hidden" name="hl" value="ja">
+<input type="hidden" name="ie" value="Shift_JIS">
+<table border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td nowrap class="txt02">| <a class="blue" href="/index_e.shtml">ENGLISH</a> | <a class="blue" href="/sitemap/index.shtml">サイトマップ</a> |</td>
+<td><input type="text" name="q" size="12" maxlength="255" value=""></td>
+<td><input type="submit" value="検索"></td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+
+<tr>
+<td height="5" colspan="4"></td>
+</tr>
+</table>
+
+<!--//HEADER S-->
+<!--main body-->
+<table width="764" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="10"><img src="../../../image/spacer.gif" width="10" height="88"></td>
+<td width="754">
+<!--IST header-->
+<table width="754" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="/image/spacer.gif" width="1" height="2"></td>
+</tr>
+<tr>
+<td><table width="754" border="0" cellspacing="0" cellpadding="0" background="/image/ist_header_back.jpg">
+<tr>
+<td width="7"><img src="/image/spacer.gif" width="7" height="1"></td>
+<td width="490"><a href="/index.shtml"><img src="/image/ist_logo.jpg" alt="東京大学 大学院 情報理工学系研究科" width="490" height="78" border="0"></a></td>
+<td width="244" align="right" valign="bottom"><table border="0" cellspacing="4" cellpadding="0">
+<tr>
+<td align="right" class="txt02"><a href="/map/index.shtml" target="_blank">交通アクセス・学内地図</a></td>
+<td><img src="/image/arrow_header.jpg" width="11" height="11"></td>
+</tr>
+<tr>
+<td><img src="/image/spacer.gif" width="1" height="10"></td>
+<td><img src="/image/spacer.gif" width="1" height="10"></td>
+</tr>
+</table></td>
+<td width="13"><img src="/image/spacer.gif" width="13" height="1"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><img src="/image/spacer.gif" width="1" height="8"></td>
+</tr>
+</table>
+<!--//IST header-->
+</td>
+</tr>
+<!--IST header以下body-->
+<tr>
+<td width="10"><img src="../../../image/spacer.gif" width="10" height="1"></td>
+<td width="754">
+<table width="754" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<!--左メインメニュー-->
+<td width="200">
+<!--訪問者別ご案内-->
+
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#A1A1A1">
+<tr>
+<td><table width="200" border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td bgcolor="#FFFFFF"><img src="/image/main_menu/visitor.gif" alt="訪問者別ご案内" width="198" height="19"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><table width="198" border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/visitor/exam.shtml">受験・進学希望の方</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/visitor/student.shtml">在学生の方</a><br>
+</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/visitor/abro.shtml">留学生の方</a><br>
+<div class="txt02">（For International Students）</div></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/visitor/com.shtml">企業・一般の方</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/visitor/grad.shtml">修了者の方</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/visitor/high.shtml">高校生の方</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/visitor/join/high_teach.shtml">高校教員の方</a></td>
+</tr>
+</table></td>
+</tr>
+<!--
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/visitor/univ.shtml">大学生の方</a></td>
+</tr>
+</table></td>
+</tr>
+-->
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<!--//訪問者別ご案内-->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/image/spacer.gif" width="1" height="6"></td>
+</tr>
+</table>
+<!--教育と研究-->
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#A1A1A1">
+<tr>
+<td><table width="200" border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td bgcolor="#FFFFFF"><img src="/image/main_menu/education.gif" alt="教育と研究" width="198" height="19"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><table width="198" border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/stud/index.shtml">研究科案内</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/intro/index.shtml">各専攻・教員の紹介</a></td>
+</tr>
+<tr>
+<td align="center">&nbsp;</td>
+<td class="txt02"><table border="0" cellspacing="0" cellpadding="2">
+<tr class="txt02">
+<td><img src="/image/spacer.gif" width="3" height="1"></td>
+<td><img src="/image/main_menu/s_cs.gif" width="10" height="10"></td>
+<td><a href="/edu/course/cs/index.shtml">コンピュータ科学</a></td>
+</tr>
+<tr class="txt02">
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/s_mi.gif" width="10" height="10"></td>
+<td><a href="/edu/course/mi/index.shtml">数理情報学</a></td>
+</tr>
+<tr class="txt02">
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/s_ipc.gif" width="10" height="10"></td>
+<td><a href="/edu/course/ipc/index.shtml">システム情報学</a></td>
+</tr>
+<tr class="txt02">
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/s_ice.gif" width="10" height="10"></td>
+<td><a href="/edu/course/ice/index.shtml">電子情報学</a></td>
+</tr>
+<tr class="txt02">
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/s_m-i.gif" width="10" height="10"></td>
+<td><a href="/edu/course/m-i/index.shtml">知能機械情報学</a></td>
+</tr>
+<tr class="txt02">
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/s_ci.gif" width="10" height="10"></td>
+<td><a href="/edu/course/ci/index.shtml">創造情報学</a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02">センター</td>
+</tr>
+<tr>
+<td align="center">&nbsp;</td>
+<td class="txt02"><table border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td><img src="/image/spacer.gif" width="3" height="1"></td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="http://www.sict.i.u-tokyo.ac.jp/" target="_blank">ソーシャルICT研究センター</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/icist/index.shtml">情報理工学国際センター</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/cerist/index.shtml">情報理工学教育研究センター</a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02">教育プログラム等</td>
+</tr>
+<tr>
+<td align="center">&nbsp;</td>
+<td class="txt02"><table border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td><img src="/image/spacer.gif" width="3" height="1"></td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/gcl/index.shtml">ソーシャルICTグローバル・クリエイティブリーダー育成プログラム</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="http://www.gcl.i.u-tokyo.ac.jp/courses/course-works/" target="_blank">グローバル・クリエイティブリーダー 講義</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="http://www.enpit.jp/" target="_blank">enPiT</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="http://dss.i.u-tokyo.ac.jp/" target="_blank">データサイエンティスト養成講座(領域知識創成教育研究プログラム)</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/cordnt/index.shtml">創造情報学連携講座</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+  <td width="176" class="txt02"><a href="/edu/others/index.shtml">他プログラム</a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02">学務関連</td>
+</tr>
+<tr>
+<td align="center">&nbsp;</td>
+<td class="txt02"><table border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td><img src="/image/spacer.gif" width="3" height="1"></td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/entra/index.shtml">入学・進学案内</a> <font color="#FF6600"><strong>new !</strong></font></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/proced/index.shtml">履修・学籍・諸手続案内</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/UTmate/">東京大学学務システム(UTAS)</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/financial-support/">学生支援制度</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/ist_en/howto_apply/pos_non-degree.shtml">研究生出願手続き</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/exam/guide.shtml">科目等履修生案内</a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/award/index.shtml">受賞</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/indus/index.shtml">産学連携（R2P/IST等）</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/event/index.shtml">情報理工関係イベント</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/inter_ex/index.shtml">国際交流</a><br>
+<div class="txt02">（International Cooperation）</div></td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="http://park.itc.u-tokyo.ac.jp/cllib/" target="_blank">工学・情報理工学図書館</a></td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/invi/index.shtml">公募情報</a></td>
+</tr>
+</table></td>
+</tr>
+
+
+<!--
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/internal/network/" target="_blank">情報理工システム管理室</a>
+<div class="txt02">（内部のみ）</div></td>
+</tr>
+</table></td>
+</tr>
+-->
+
+<!--
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="/internal/docs" target="_blank">情報理工内部ページ</a>　<span class="txt02">（内部のみ）</span></td>
+</tr>
+</table></td>
+</tr>
+-->
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02">内部者限定情報</td>
+</tr>
+<tr>
+<td align="center">&nbsp;</td>
+<td class="txt02"><table border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td><img src="/image/spacer.gif" width="3" height="1"></td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="http://info.t.u-tokyo.ac.jp/" target="_blank">ポータルサイト</a>　<span class="txt02"></span></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="http://info01.cloud.i.u-tokyo.ac.jp/" target="_blank">ISTクラウド</a>　<span class="txt02"></span></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/internal/pr/" target="_blank">研究倫理審査・広報</a>　<span class="txt02"></span></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/others/guideline.shtml">科学研究ガイドライン</a>　<span class="txt02"></span></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td><img src="/image/main_menu/arrow_mainmenu.gif" width="10" height="10"></td>
+<td width="176" class="txt02"><a href="/edu/others/guideline_2.shtml">情報倫理ガイドライン</a><span class="txt02"></span></td></tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<!--//教育と研究-->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/image/spacer.gif" width="1" height="6"></td>
+</tr>
+</table>
+<!--緊急連絡-->
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#A1A1A1">
+<tr>
+<td><table width="200" border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td bgcolor="#FFFFFF"><img src="/image/main_menu/emergency.gif" alt="緊急連絡" width="198" height="19"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><table width="198" border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="https://sites.google.com/site/utokyoistemerg/" target="_blank">緊急連絡ページ</a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<!--//緊急連絡-->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/image/spacer.gif" width="1" height="6"></td>
+</tr>
+</table>
+<!--関連学部-->
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#A1A1A1">
+<tr>
+<td><table width="200" border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td bgcolor="#FFFFFF"><img src="/image/main_menu/connection.gif" alt="関連学部" width="198" height="19"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><table width="198" border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td bgcolor="#E8E8E8"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="http://www.t.u-tokyo.ac.jp/foe/" target="_blank">工学部</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6"><table width="196" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" align="center"><img src="/image/main_menu/arrow_mainmenu.gif" width="16" height="10"></td>
+<td width="176" class="txt02"><a href="http://www.s.u-tokyo.ac.jp/index-ja_ip.html" target="_blank">理学部</a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<!--//関連学部-->
+
+</td>
+<!--//左メインメニュー-->
+<td width="10"><img src="../../../image/spacer.gif" width="10" height="1"></td>
+<td width="544" class="txt02">
+<!--コンテンツ body-->
+<!--navi-->
+<table width="544" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td class="txt02"><a href="../../../index.shtml">Home</a> > 教育と研究 > <a href="../../stud/index.shtml">研究科案内</a> > <a href="../../stud/spe_study.shtml">専攻と講義科目</a> > 電子情報学</td>
+</tr>
+</table>
+<!--//navi-->
+<table width="544" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="../../image/spacer.gif" width="1" height="5"></td>
+</tr>
+<tr>
+<td><img src="../../image/title_kyoiku.jpg" alt="教育と研究" width="544" height="22"></td>
+</tr>
+</table>
+<br>
+<table width="544" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="10" rowspan="5"><img src="../../image/spacer.gif" width="10" height="1"></td>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><a href="index.shtml"><img src="image/name_ice.gif" alt="電子情報学" width="170" height="19" border="0"></a></td>
+<td align="right"><a href="movie/index.shtml"><img src="../../../image/ico_movie.gif" alt="movie" width="65" height="18" border="0"></a></td>
+</tr>
+</table>
+</td>
+<td width="10" rowspan="5"><img src="../../image/spacer.gif" width="10" height="1"></td>
+</tr>
+<tr>
+<td width="524"><img src="../../image/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td width="524" background="../../image/sub_line_up.gif"><img src="../../image/spacer.gif" width="1" height="5"></td>
+</tr>
+<tr>
+<td width="524" class="txt02">｜ <a href="index.shtml">電子情報学トップ</a> ｜ <a href="object.shtml">専攻の目的</a> ｜ <a href="members.shtml">教員と研究室</a>｜ 講義 ｜ <br>
+  ｜ <a href="master.shtml">学位論文（修士）</a> 
+  ｜ <a href="doctor.shtml">学位論文（博士）</a> 
+  ｜ <a href="admission.shtml">入試案内</a> 
+  ｜ <a href="http://todaidenki.jp/" target="_blank">同窓会</a> 
+  ｜ <a href="http://www.ee.t.u-tokyo.ac.jp/~eejim/jim.html" target="_blank">専攻事務室</a> 
+  ｜ </td>
+</tr>
+<tr>
+<td width="524" background="../../image/sub_line_down.gif"><img src="../../image/spacer.gif" width="1" height="5"></td>
+</tr>
+</table>
+<br>
+<table width="544" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20"><img src="../../image/spacer.gif" width="10" height="1"></td>
+<td width="504" class="txt02">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr class="txt02">
+    <td><span class="title">
+        <a href="../../proced/sche_sa.html">平成30年度研究科授業時間割</a>
+    </span></td>
+  </tr>
+<tr class="txt02">
+  <td><span class="title">
+      <a href="../../proced/pdf/common-code.pdf">共通科目コード</a>
+  </span></td>
+</tr>
+  <tr class="txt02">
+    <td align="right"><span class="title"><a href="../../proced/lectures.html" target="_blank">研究科共通</a></span></td>
+  </tr>
+</table>
+  <h2>講義一覧</h2>
+  <div class="alignright txt02"> ※○：本年度開講科目</div>
+<table border="1" class="dataframe lec">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>科目番号/Code</th>
+      <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;科目名/Subject&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>担当教員/Instructor</th>
+      <th>ターム/Term</th>
+      <th>単位/Credit</th>
+      <th>曜限/Schedule</th>
+      <th>時間/Time</th>
+      <th>講義室/Room</th>
+      <th>備考/Remark</th>
+      <th>重複履修制限/Restriction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1032</font></td>
+      <td>コンピュータシステム<br />Computer System</td>
+      <td>坂井 修一</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Mon 3</td>
+      <td>13:00-14:45</td>
+      <td>工2号館246講義室</td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1029</font></td>
+      <td>アドバンスト・コンピュータアーキテクチャ<br />Advanced Computer Architecture</td>
+      <td>入江 英嗣</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Wed 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館246講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1004</font></td>
+      <td>並列分散プログラミング<br />Parallel and Distributed Programming</td>
+      <td>田浦 健次朗</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Mon 5</td>
+      <td>16:50-18:35</td>
+      <td>工2号館246講義室</td>
+      <td>※E 情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1005</font></td>
+      <td>データベース工学<br />Database Engineering</td>
+      <td>喜連川 優</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Tue 3</td>
+      <td>13:00-14:45</td>
+      <td>工2号館241講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1006</font></td>
+      <td>情報システム開発論<br />Methodologies for Information Systems Development</td>
+      <td>安達 淳</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Mon 5</td>
+      <td>16:50-18:35</td>
+      <td>工2号館246講義室</td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1011</font></td>
+      <td>ネットワークアーキテクチャ<br />Network Architecture for Digital Communication</td>
+      <td>瀬崎 薫</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Tue 3</td>
+      <td>13:00-14:45</td>
+      <td>工2号館241講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1012</font></td>
+      <td>インターネット工学<br />Internet Architecture</td>
+      <td>江崎 浩</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Tue 5</td>
+      <td>16:50-18:35</td>
+      <td>工2号館241講義室</td>
+      <td>※E 情</td>
+      <td><font size=-3>4860-1012<br />4891-1004</font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1043</font></td>
+      <td>IoTシステム工学<br />IoT System Engineering</td>
+      <td>落合 秀也</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Tue 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館242講義室</td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1036</font></td>
+      <td>アドバンスト情報セキュリティ<br />Advanced Information Security</td>
+      <td>松浦 幹太</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Mon 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館242講義室</td>
+      <td>情</td>
+      <td><font size=-3>4840-1013</font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1014</font></td>
+      <td>映像メディア学<br />Visual Media Engineering</td>
+      <td>山崎 俊彦</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Mon 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館241講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1042</font></td>
+      <td>自然言語処理<br />Natural Language Processing</td>
+      <td>鶴岡 慶雅</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Thu 2</td>
+      <td>10:25-12:10</td>
+      <td>工2号館245講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1037</font></td>
+      <td>認知メディア論<br />Cognitive Multi-Media Processing</td>
+      <td>峯松 信明</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Tue 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館246講義室</td>
+      <td>※E 情</td>
+      <td><font size=-3>3747-106</font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1016</font></td>
+      <td>パターン認識<br />Pattern Recognition</td>
+      <td>佐藤 真一</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Tue 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館241講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1018</font></td>
+      <td>画像処理論<br />Digital Image Processing</td>
+      <td>佐藤 洋一</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Tue 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館246講義室</td>
+      <td>情</td>
+      <td><font size=-3>4917190</font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1034</font></td>
+      <td>画像符号化方式<br />Image/Video Coding</td>
+      <td>相澤 清晴</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Mon 3</td>
+      <td>13:00-14:45</td>
+      <td>工２号館245講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1020</font></td>
+      <td>情報視覚化<br />Information Visualization</td>
+      <td>上條 俊介</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Mon 2</td>
+      <td>10:25-12:10</td>
+      <td>工２号館245講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1031</font></td>
+      <td>ウェブ工学<br />Web Engineering</td>
+      <td>豊田 正史</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Mon 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館246講義室</td>
+      <td>※E 情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1038</font></td>
+      <td>情報セキュリティ基盤論<br />Information Security Infrastructure</td>
+      <td>佐藤 周行<br />笠松 隆幸<br />田村 拓也</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Tue 2</td>
+      <td>10:25-12:10</td>
+      <td>工2号館会議室1AB</td>
+      <td></td>
+      <td><font size=-3>3747-078</font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1039</font></td>
+      <td>シミュレーション学<br />Simulation</td>
+      <td>伊庭 斉志</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Tue 2</td>
+      <td>10:25-12:10</td>
+      <td>工2号館246講義室</td>
+      <td>情</td>
+      <td><font size=-3>3747-068</font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1026</font></td>
+      <td>電子情報学特別講義<br />Computer and Communication Engineering</td>
+      <td>松浦 幹太<br />江崎 浩</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Wed 6</td>
+      <td>18:45-20:30</td>
+      <td>工2号館242講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><font size=-3>4840-1041</font></td>
+      <td>動的システム工学<br />Dynamical Systems for Engineering</td>
+      <td>長谷川 禎彦</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Mon 1</td>
+      <td>8:30-10:15</td>
+      <td>工2号館244講義室</td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1044</font></td>
+      <td>計算言語学<br />Computational Linguistics</td>
+      <td>吉永 直樹</td>
+      <td>A1A2</td>
+      <td>2</td>
+      <td>Mon 4</td>
+      <td>14:55-16:40</td>
+      <td>工2号館会議室1AB</td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1045</font></td>
+      <td>計算製造学<br />Computational Fabriocation</td>
+      <td>川原 圭博<br />梅舘 拓也<br />斉藤 一哉</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Mon 3</td>
+      <td>13:00-14:45</td>
+      <td>工2号館241講義室</td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-1027</font></td>
+      <td>電子情報学特論I<br />Special Issues on Information Engineering I</td>
+      <td>落合 秀也<br />田浦 健次朗<br />江崎 浩</td>
+      <td>S1S2</td>
+      <td>2</td>
+      <td>Mon 5</td>
+      <td>16:50-18:35</td>
+      <td>工2号館241講義室</td>
+      <td>情</td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-2001</font></td>
+      <td>電子情報学修士輪講I<br />電子情報学修士輪講I(10月入学)<br />Information and Communication Engineering Master Course Seminar I</td>
+      <td>各教員</td>
+      <td>通年<br />年度跨り</td>
+      <td></td>
+      <td>Fri 2</td>
+      <td>10:25-12:10</td>
+      <td>工2号館; 工２号館242講義室; 245講義室</td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-2002</font></td>
+      <td>電子情報学修士輪講II<br />電子情報学修士輪講II(10月入学)<br />Information and Communication Engineering Master Course Seminar II</td>
+      <td>各教員</td>
+      <td>通年<br />年度跨り</td>
+      <td></td>
+      <td>Fri 2</td>
+      <td>10:25-12:10</td>
+      <td>工2号館; 工２号館242講義室; 245講義室</td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-3001</font></td>
+      <td>電子情報学修士特別研究I<br />電子情報学修士特別研究I(10月入学)<br />Research Project on Information and Communication Engineering I</td>
+      <td>各教員</td>
+      <td>通年<br />年度跨り</td>
+      <td></td>
+      <td>集中</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-3002</font></td>
+      <td>電子情報学修士特別研究II<br />電子情報学修士特別研究II(10月入学)<br />Research Project on Information and Communication Engineering II</td>
+      <td>各教員</td>
+      <td>通年<br />年度跨り</td>
+      <td></td>
+      <td>集中</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-3003</font></td>
+      <td>電子情報学博士特別研究I<br />電子情報学博士特別研究I(10月入学)<br />Advanced Research Project on Information and Communication Engineering I</td>
+      <td>各教員</td>
+      <td>通年<br />年度跨り</td>
+      <td></td>
+      <td>集中</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-3004</font></td>
+      <td>電子情報学博士特別研究II<br />電子情報学博士特別研究II(10月入学)<br />Advanced Research Project on Information and Communication Engineering II</td>
+      <td>各教員</td>
+      <td>通年<br />年度跨り</td>
+      <td></td>
+      <td>集中</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+    <tr>
+      <td>○</td>
+      <td><font size=-3>4840-3005</font></td>
+      <td>電子情報学博士特別研究III<br />電子情報学博士特別研究III(10月入学)<br />Advanced Research Project on Information and Communication Engineering III</td>
+      <td>各教員</td>
+      <td>通年<br />年度跨り</td>
+      <td></td>
+      <td>集中</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><font size=-3></font></td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="font-size:11px;">
+  ※科目番号下にある“※E”は、原則として英語で行う講義を表す。<br>
+  ※右欄外「情」は、教育職員免許法の免許教科『情報』の教科に関する認定科目。<br>	
+  ※次の科目同士は、開講年度が異なっても、両方の履修は認められない。<br>	
+
+4840-1012「インターネット工学」と4860-1012 (創造情報), 4891-1004<br />
+4840-1036「アドバンスト情報セキュリティ」と4840-1013<br />
+4840-1037「認知メディア論」と3747-106<br />
+4840-1017「コンピュータビジョン」と4810-1119 (コンピュータ科学), 4915030<br />
+4840-1018「画像処理論」と4917190<br />
+4840-1019「インタフェース構成論」と4915100<br />
+4840-1038「情報セキュリティ基盤論」と3747-078<br />
+4840-1039「シミュレーション学」と3747-068<br />
+
+
+  <!--
+      4840-1012「インターネット工学」 と 4860-1012(創造情報学) と 4891-1004(IRT)<br>	
+      4840-1017「コンピュータビジョン」 と 4810-1119(コンピュータ科学) と4915030(学際情報学府)	<br>
+      4840-1018「画像処理論」 と 4917190(学際情報学府)<br>	
+      4840-1019「インタフェース構成論」 と 4915100(学際情報学府)<br>	
+      4840-1036「アドバンスト情報セキュリティ」 と 4840-1013	<br>
+      4840-1037「認知メディア論」と 3747-106（工学系）<br>	
+      4840-1038「情報セキュリティ基盤論」 と 3747-078(工学系)<br>
+      4840-1039「シミュレーション学」と3747-068(工学系)
+    -->
+</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+<tr align="right">
+<td><a href="#top"><img src="../../../image/pagetop.gif" alt="page top" width="48" height="14" border="0"></a></td>
+</tr>
+</table>
+
+<h2>講義内容</h2>
+
+<table border="1" class="dataframe lec">
+  <thead>
+    <tr style="text-align: right;">
+      <th>授業科目</th>
+      <th>担当教員</th>
+      <th>講義内容</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>4840-1032<br />コンピュータシステム<br />Computer System</td>
+      <td>坂井 修一</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4840-1029<br />アドバンスト・コンピュータアーキテクチャ<br />Advanced Computer Architecture</td>
+      <td>入江 英嗣</td>
+      <td>本講義では,コンピュータ,特にプロセッサの高性能化,省電力化,高信頼化技術について学ぶ.スーパスカラプロセッサのしくみ,マイルストーンとなったアーキテクチャ論文,最新のプロセッサ動向について触れ,これらのトピックを通して,システムに対しより高い計算能力を効果的に供給する手法を理解する.<br />1. はじめに<br />2. パイプライン・プロセッサ<br />3. スーパスカラ・プロセッサ<br />4. 割り込みと投機実行<br />5. スーパスカラの拡張性<br />6. TLPアーキテクチャ<br />7. 省電力制御<br />8. 進んだキャッシュ管理<br />9. アクセラレータ<br />10.コアの組み合わせ<br />11.命令セットの設計<br />12.まとめ</td>
+    </tr>
+    <tr>
+      <td>4840-1004<br />並列分散プログラミング<br />Parallel and Distributed Programming</td>
+      <td>田浦 健次朗</td>
+      <td>The main objectives of this course are to have hands-on experiences on parallel programming and good understanding about how to solve problems in parallel and what determines performance of parallel programs.<br />I wish to cover the topics below&comma; ranging from a very gentle introduction to parallel programming to performance of parallel programs to fundamental topics that may be difficult to understand for first learners (due to time constraints&comma; it's unlikely to fully cover them all).<br />There will be a hands-on programming session or two that expose students to parallel programming experiences.<br />* Parallel Programming in Practice<br />- It's easy! --- a quick and gentle introduction to parallel problem solving<br />- Some examples of parallel problem solving and programming<br />* Taxonomy of parallel machines and programming models<br />- What today's machines look like --- parallel computer architecture<br />- Distributed memory machines<br />- Multi-core / multi-socket nodes<br />- SIMD instructions<br />- Taxonomy of parallel programming models<br />- Finding and expressing parallelism<br />- Mapping computation onto compute resources<br />- Coordination and communication<br />- Popular programming APIs<br />- OpenMP&comma; TBB&comma; Cilk&comma; OpenCL&comma; OpenACC&comma; MPI&comma; UPC&comma; Chapel&comma; X10&comma; ...<br />* Understanding performance of parallel programs (and achieving high performance)<br />- Do you know the maximum performance of your CPU?<br />- Do you know the maximum performance of memory?<br />- How to reason about memory traffic of your programs<br />- Provable bounds of greedy schedulers<br />- Provable bounds of work-stealing schedulers<br />- Cache miss bounds of work-stealing schedulers<br />* Fundamental Topics (as time permits)<br />- Concurrent data structures<br />- Atomic updates without locks<br />- Linearlizability: Specifying correctness of concurrent data structures<br />- Example lock-free concurrent data structures<br />- Transactional memory<br />- Memory consistency models<br />- Sequential consistency<br />- How costly is it to maintain sequential consistency?<br />- Optimizations that violate sequential consistency<br />- Relaxed consistency</td>
+    </tr>
+    <tr>
+      <td>4840-1005<br />データベース工学<br />Database Engineering</td>
+      <td>喜連川 優</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4840-1006<br />情報システム開発論<br />Methodologies for Information Systems Development</td>
+      <td>安達 淳</td>
+      <td>データベースを中心とした情報システムの構築手法について、実例を紹介しながら、比較・解説する。リレーショナルデータベースを用いたもの、XMLなど半構造データベースによるもの、情報検索エンジンに関するものなどを扱う。システム構築手法に関しては、従来からのソフトウェア工学のアプローチを概観した上で、オブジェクト指向、エージェント、Webサービスなどを紹介する。<br />情報分野の各教科を有機的に結びつけ、現実的な問題で理解を深めることを目指している。<br />1.情報システムとデータベース、ソフトウェア工学のキーポイント<br />2.ソフトウェア開発プロセス<br />3.リレーショナルデータベースの設計論<br />4.データベース設計演習。第一回レポート課題<br />5.第一回レポートの講評<br />6.トランザクション処理とデータベース<br />7.ネットワーク指向のシステム設計論<br />8.XMLと構造化文書<br />9.Webサービス<br />10.Webサービスとマッシュアップに関する第二回レポート課題<br />11.第二回レポート講評<br />12.分散コンピューティング概要<br />13.分散データベースとオブジェクト指向<br />14.エージェントと知識ベース<br />15.全体のまとめと第三回レポート課題</td>
+    </tr>
+    <tr>
+      <td>4840-1011<br />ネットワークアーキテクチャ<br />Network Architecture for Digital Communication</td>
+      <td>瀬崎 薫</td>
+      <td>通信ネットワークを構成するルータ・無線LAN等の様々なシステム要素を紹介すると共に,それらの性能を理論やシミュレーションによって解析するために必要な手法についての概要を説明する.受講に当たっては,学部レベルの確率・統計の初歩及びラプラス変換とZ変換の初歩について理解していることが望ましい.<br />This lecture introduces various elements of Communication networks. Also&comma; the methodplogies to analyze the perfomance of these elements are introduced. It is  recommended that partipants have basic knowledge about probability&comma; statistics as well as Laplace Transform and Z-Transform.<br />主に講義による.<br />Mainly the oral lecture style.</td>
+    </tr>
+    <tr>
+      <td>4840-1012<br />インターネット工学<br />Internet Architecture</td>
+      <td>江崎 浩</td>
+      <td>Understanding the essentials of Internet architecture and system.  The discussion is related with technological&comma; scientific&comma; social and econo&comma;mical points of view.<br />4/ 8 Introduction (and call for general questions)<br />4/15 Green University of Tokyo<br />4/22 Overview of the Internet Architecture<br />4/29(5/1)&comma; 5/6 National Holidays<br />5/13 Network Architecture (overlay vs. gateway&comma; emulation to native)<br />5/20 What is Digital Technology ?<br />5/27 Routing architecture (stateless&comma; forget about end to end)<br />6/3 TCP (control by end-station)<br />6/10 Special Lecture by David Mayer on SDN and OpenDayLights<br />6/17 MPLS (and OpenFlow)<br />6/24 P2P Technology<br />7/1 Security and Privacy (open vs closed system)<br />7/8 Copyrights and Intellectual Property<br />7/15 Fairness and Equality + Global versus International</td>
+    </tr>
+    <tr>
+      <td>4840-1043<br />IoTシステム工学<br />IoT System Engineering</td>
+      <td>落合 秀也</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4840-1036<br />アドバンスト情報セキュリティ<br />Advanced Information Security</td>
+      <td>松浦 幹太</td>
+      <td>情報セキュリティの各分野で教育的な論文を取り上げ、情報セキュリティに関する研究の考え方を学ぶ。技術だけでなく学際的な内容も含む。<br />(By using instructive papers in each field of information security&comma; we learn approaches for information-security research. Not only technologies but also interdisciplinary studies will be included.)<br />1. 序論(Preliminaries)<br />2. 暗号理論の研究(Research in cryptography)<br />3. ネットワークセキュリティの研究(Research in network security)<br />4. セキュリティマネジメントの研究(Research in security management)</td>
+    </tr>
+    <tr>
+      <td>4840-1014<br />映像メディア学<br />Visual Media Engineering</td>
+      <td>山崎 俊彦</td>
+      <td>画像・映像といったマルチメディアデータを中心に比較的基礎の部分から最近の研究動向までを網羅的に学習する。<br />画像・映像といったマルチメディアデータを中心に比較的基礎の部分から最近の研究動向までを網羅的に学習する。受講者の知識度合いや研究のトレンドによって講義の内容は一部変更することがあるが、内容はおおむね以下の通りである。<br />1. 画像・映像表現の基礎<br />2. 画像・映像からの特徴抽出<br />3. 画像・映像の操作<br />4. 画像・映像の認識・理解<br />5. 関連ソフトウェア・ライブラリの紹介<br />6. 最近の研究紹介</td>
+    </tr>
+    <tr>
+      <td>4840-1042<br />自然言語処理<br />Natural Language Processing</td>
+      <td>鶴岡 慶雅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4840-1037<br />認知メディア論<br />Cognitive Multi-Media Processing</td>
+      <td>峯松 信明</td>
+      <td>In this lecture&comma; cognitive processing of multimedia information by human brains and technical processing of multimedia information on machines are explained and compared. Then&comma; a focus is put on the fact that a large difference still remains between them. This lecture enables students to consider deeply what kind of information processing has to be implemented on machines if they want to create not seemingly but actually “human-like" robots&comma; especially&comma; the robots that can understand spoken language.<br />This lecture is divided into three parts. The first part explains the multimedia information processing by human brains. Here&comma; some interesting perceptual characteristics of autism&comma; synesthesia&comma; and dyslexia are explained as examples. The second part describes the conventional technical framework of spoken language processing and its drawbacks. The last discusses what kind of new methodology is needed to create really “human-like" robots that can understand spoken language. For this aim&comma; a new framework is introduced and explained.<br />1. Multimedia information and humans<br />2. Multimedia information and interaction between humans and machines<br />3. Multimedia information used in expressive and emotional processing<br />4. A wonder of sense - synesthesia -<br />5. Speech communication technologies - articulatory and acoustic phonetics -<br />6. Speech communication technologies - speech analysis -<br />7. Speech communication technologies - speech recognition -<br />8. Speech communication technologies - speech synthesis -<br />9. A new framework for &quot;human-like&quot; speech machine #1<br />10. A new framework for  &quot;human-like&quot; speech machine #2<br />11. A new framework for &quot;human-like&quot; speech machine #3<br />12. A new framework for &quot;human-like&quot; speech machine #4</td>
+    </tr>
+    <tr>
+      <td>4840-1016<br />パターン認識<br />Pattern Recognition</td>
+      <td>佐藤 真一</td>
+      <td>統計的パターン認識、機械学習等を中心に理論・実践を学ぶ。<br />This course will cover statistical pattern recognition&comma; machine learning&comma; and other related topics in the aspects of theory and practice.<br />1. 序論<br />ベイズ決定則<br />確率分布<br />正規分布<br />2. 線形代数<br />ランダムベクトル<br />線形代数復習<br />直行展開<br />主成分分析 (PCA)<br />3. 固有値展開の応用<br />顔検出・認識<br />三次元構造推定<br />4. パラメトリック分布推定<br />線形判別分析 linear discriminant analysis<br />5. ノンパラメトリック分布推定<br />パルゼンウィンドウ<br />k近傍推定<br />k近傍識別器<br />6. クラスタリング<br />階層型クラスタリング<br />デンドログラム<br />完全連結法 maximum (complete) linkage<br />単連結法 minimum (single) linkage<br />k-means<br />1. Introduction<br />Bayes decision theory&comma; probability distribution&comma; normal distribution<br />2. Linear algebra<br />random vector&comma; linear algebra&comma; orthogonal expansions&comma; principal component analysis (PCA)<br />3. Application of Eigenvalue decomposition<br />Eigenvalue decomposition&comma; singular value decomposition&comma; face detection/recognition&comma; factorization method<br />4. Parametric methods<br />linear discriminant analysis<br />5. Nonparametric methods<br />Parzen windows&comma; k-nearest neighbor estimate&comma; k-nearest neighbor classification<br />6. Clustering<br />agglomerative hierarchical clustering&comma; dendrogram&comma; complete linkage&comma; single linkage&comma; k-means</td>
+    </tr>
+    <tr>
+      <td>4840-1018<br />画像処理論<br />Digital Image Processing</td>
+      <td>佐藤 洋一</td>
+      <td>デジタル画像処理(Digital Image Processing)を体系的に理解することを目的とする。<br />デジタル画像処理について、以下のテーマを中心に解説する。また、メディアへの応用について関連する最近の研究例なども紹介する。<br />1.センサによる画像情報の取得<br />・カメラモデル<br />・画像表現と記録<br />・ノイズと画像フィルタ<br />2.基本画像特徴とその検出<br />・エッジ特徴、コーナー特徴、SIFT特徴<br />・ハフ変換、一般化ハフ変換<br />・幾何学的ハッシング、RANSAC<br />・Deformable Contours<br />3.画像領域処理<br />・2値画像処理<br />・モルフォロジー処理<br />・クラスタリング<br />4.画像復元<br />・周波数領域フィルタ<br />・劣化関数の推定による復元フィルタ<br />5.テクスチャ解析<br />・テクスチャ要素<br />・構造的モデル<br />・統計的モデル<br />6.カラー情報の表現と解析<br />・光と色の知覚<br />・色空間<br />・色恒常性</td>
+    </tr>
+    <tr>
+      <td>4840-1034<br />画像符号化方式<br />Image/Video Coding</td>
+      <td>相澤 清晴</td>
+      <td>インターネット映像,ケータイ画像、デジタルカメラ,デジタルTVなど様々なマルチメディア応用が社会に与える影響は大きい。それらを可能にする技術が画像符号化である。すでに,膨大な画像情報は,様々な標準方式で蓄積され、それらはネットワークを介してマルチメディア応用に供されている。<br />画像符号化技術、標準方式の能力と限界を知ることが重要であり,このコースは、デジタル画像符号化の深い理解を与えることを目的とする。<br />1. デジタル画像符号化の概要<br />2. デジタル画像の基礎,表現<br />2. ロスレス符号化<br />3. 量子化と損失<br />4. 予測符号化<br />5. 直交変換と変換符号化<br />6. 離散コサイン変換<br />7.JPEG<br />8.ウェーブレット,サブバンド<br />9.JPEG2000<br />10. 動き補償とハイブリッド符号化<br />11.H.261,MPEG1<br />12. MPEG2<br />13.H.264&comma; H.265</td>
+    </tr>
+    <tr>
+      <td>4840-1020<br />情報視覚化<br />Information Visualization</td>
+      <td>上條 俊介</td>
+      <td>いわゆるinformation visualization&comma; computer visualizationと言われる技術につき、基礎的な事項を講義する。コンピューターグラフィックスの概論から、computer visualizationの各手法について一通りの技術を概観する。<br />いわゆるinformation visualization&comma; computer visualizationと言われる技術につき、基礎的な事項を講義する。また、その前提として、二次元、三次元のコンピュータグラフィックスについても一通りの技術を講義する。また、知識発見のための可視化、インフォグラフィックス等の周辺トピックスの紹介を予定している。<br />1.情報視覚化の意義<br />2.カラー工学概論<br />3.コンピュータグラフィックス概論<br />4.流れの可視化(フローグラフィックス)<br />5.ボリュームグラフィックス<br />6.グラフデータの視覚化<br />7.時系列データの視覚化<br />8.その他</td>
+    </tr>
+    <tr>
+      <td>4840-1031<br />ウェブ工学<br />Web Engineering</td>
+      <td>豊田 正史</td>
+      <td>ウェブ、ソーシャルメディアにおける情報収集・検索・抽出・マイニング等の技術や、サイバーフィジカル、IoTとウェブ技術の融合に関する研究等、ウェブにまつわる最新の研究動向について学ぶ。<br />前半:ウェブ、ソーシャルメディア、サイバーフィジカル、IoT等の研究分野に関する基礎的な論文の輪読<br />後半:最近の関連分野に関する論文の輪読</td>
+    </tr>
+    <tr>
+      <td>4840-1038<br />情報セキュリティ基盤論<br />Information Security Infrastructure</td>
+      <td>佐藤 周行<br />笠松 隆幸<br />田村 拓也</td>
+      <td>インターネットが人々の生活の基盤となりつつある中、そこを舞台としたセキュリティに関する事件、事故が多発している。<br />特に、ネット上提供されるサービスに関連して、新たな課題が指摘されている。<br />ビッグデータと呼ばれるネット上に流通する大量のデータ、特にネット上の個人にひもづくパーソナルデータと呼ばれるデータの処理に<br />関し、プライバシーを含めて多くの新しい問題が俎上に上っている。また、会社や大学といった組織にとっても、ネットとどう「つきあって」<br />活動を最適化するかについて多くの課題が指摘されている。<br />それらに対応するために暗号化、PKIを含むさまざまな技術と制度が提案され、実際に効果を上げている。<br />ここでは、クラウド等、現状の技術を踏まえながら、情報セキュリティに関係する技術とそれを実際に配備する制度の両方について講義を行\\<br />い、学会と社会の具体的な要求に応えることを目標とする。<br />この講義は、情報セキュリティの理論もさることながら、実際の場面でどう理解され、実践されているのかの解析にポイントを<br />おくものである。<br />1. 授業紹介 (4/5)<br />2. 現代社会における情報セキュリティの背景<br />*  (4/19) 脅威の変遷とクラウド化、ソーシャル化<br />*  (4/26) 現代社会におけるサービス提供企業の課題<br />*  (5/10) インシデント動向と攻撃者の技術<br />3. 「組織」のセキュリティ基盤 -- 組織が採用している現実解  *  (5/17) 情報セキュリティリスク管理<br />*  (5/24) 企業で使われる情報セキュリティ技術<br />*  (5/31) ネットワークとシステムにおけるセキュリティ技術<br />*  (6/7) 先進的な防禦方法と体制<br />*  (6/14) アイデンティティ管理とID管理<br />*  (6/21) 成熟度モデルとセキュリティ監査<br />4. 「社会」のセキュリティ基盤<br />*  (6/28) E-コンプライアンスとサイバー基本法<br />*  (7/5)  セキュリティと社会制度<br />*  (7/12) まとめと問題解説</td>
+    </tr>
+    <tr>
+      <td>4840-1039<br />シミュレーション学<br />Simulation</td>
+      <td>伊庭 斉志</td>
+      <td>本講義では「複雑系のシミュレーション」についてその基礎から具体<br />的な事例までを扱う。具体的には、(1)計算機上のシミュレーションの基本概念、 (2)進化論的計算手法の基礎、 (3)マルチエージェント計算、 (4)事象駆動型シミュレーション、 (4)人工生命に基づくシミュレーション技法、などについて勉強してもらう。これらはいずれも、コンピュータをシミュレーションの道具として使用しようと思っている学生はもちろん、人工知能や他の分野の勉強をする学生にとっても必要不可欠となる基礎事項である。<br />-</td>
+    </tr>
+    <tr>
+      <td>4840-1026<br />電子情報学特別講義<br />Computer and Communication Engineering</td>
+      <td>松浦 幹太<br />江崎 浩</td>
+      <td>情報セキュリティ大学院大学の実践セキュリティ人材育成コース(SecCap)(http://seccap.iisec.ac.jp/)と密接に関係した特別講義(Special lecture closely related to SecCap&comma; an information-security specialist program of IISEC)。<br />開講時に指示する。</td>
+    </tr>
+    <tr>
+      <td>4840-1041<br />動的システム工学<br />Dynamical Systems for Engineering</td>
+      <td>長谷川 禎彦</td>
+      <td>本講義では力学系・確率過程の基礎を扱い、生命現象や工学における応用について紹介する。具体的な内容としては、線形安定性解析、分岐、カオス、フロッケ理論、リミットサイクル、位相方程式、同期現象、マルコフ連鎖、マスター方程式、確率微分方程式、フォッカー・プランク方程式、確率熱力学等を扱う。<br />以下のトピックについて扱う.詳しくは授業ホームページ参照.<br />●線形安定性解析・分岐<br />●リミットサイクル振動<br />●フロッケ理論<br />●リミットサイクル分岐・カオス<br />●位相方程式・同期<br />●マルコフ連鎖<br />●マスター方程式<br />●確率微分方程式<br />●確率熱力学</td>
+    </tr>
+    <tr>
+      <td>4840-1044<br />計算言語学<br />Computational Linguistics</td>
+      <td>吉永 直樹</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4840-1045<br />計算製造学<br />Computational Fabriocation</td>
+      <td>川原 圭博<br />梅舘 拓也<br />斉藤 一哉</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4840-1027<br />電子情報学特論I<br />Special Issues on Information Engineering I</td>
+      <td>落合 秀也<br />田浦 健次朗<br />江崎 浩</td>
+      <td>情報セキュリティ大学院大学の情報セキュリティ・スペシャリスト・プログラムと密接に関係した特別講義(Special lecture closely related to Information-Security Specialist Program of IISEC)。<br />開講時に指示する。</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+<tr align="right">
+<td><a href="#top"><img src="../../../image/pagetop.gif" alt="page top" width="48" height="14" border="0"></a></td>
+</tr>
+</table>
+
+<br></td>
+<td width="20"><img src="../../image/spacer.gif" width="10" height="1"></td>
+</tr>
+</table>
+<br>
+<!--//コンテンツ body-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--//main body-->
+
+<!--FOOTER-->
+<table width="764" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td rowspan="2"><img src="/image/spacer.gif" alt="" width="10" height="1"></td>
+<td><hr width="754" size="1"></td>
+</tr>
+<tr>
+<td><table width="754" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td align="right"><table border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td class="txt02"><img src="/image/mail.gif" alt="大学院 情報理工学系研究科 お問い合せ先" width="466" height="16"></td>
+<td><a href="//www.u-tokyo.ac.jp/public/policy_j.html"><img src="//www.u-tokyo.ac.jp/global/banners/copyright.gif" alt="東京大学" width="50" height="9" border="0"></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+
+<!--//FOOTER-->
+
+</body>
+</html>
