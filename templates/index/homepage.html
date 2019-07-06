@@ -9,6 +9,66 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+
+    <script>
+        function filter(){
+            var filter1 = document.getElementById('filter1');
+            var filter2 = document.getElementById('filter2');
+            var filter3 = document.getElementById('filter3');
+            var result1 = document.getElementById('result1');
+            var result2 = document.getElementById('result2');
+            var result3 = document.getElementById('result3');
+            if (filter1.checked == true){
+                result1.style.display='block';
+            }
+            else{result1.style.display='none';
+            }
+
+            if (filter2.checked == true){
+                result2.style.display='block';
+            }
+            else{result2.style.display='none';
+            }
+
+            if (filter3.checked == true){
+                result3.style.display='block';
+            }
+            else{result3.style.display='none';
+            }
+
+
+        }
+        function loadDoc() {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("demo").innerHTML = this.responseText;
+                }
+            };
+            xhttp.open("GET", "ajax_info.txt", true);
+            xhttp.send();
+        }
+        $(function() {
+            $('#ajax_search').click(function() {
+                $.ajax({
+                    url: '/search_ajax/ajax/',
+                    data: $('form').serialize(),
+                    type: 'POST',
+                    success: function(result) {
+                        var obj = JSON.parse(result);
+                        $("#title_ajax").text(obj.keyword);
+                        console.log(result);
+
+                    },
+                    error: function(error) {
+                        console.log(error);
+                    }
+                });
+            });
+        });
+
+
+    </script>
     <style>
         .autocomplete {
             display: -ms-flexbox;
@@ -47,7 +107,8 @@
     </div></nav>
 <div class="container">
     <div class="row">
-        <h3 style="padding-top: 10%" class="col s12">検索する文を入力してください</h3>
+        <h3 style="padding-top: 10%" id='test' class="col s12">検索する文を入力してください</h3>
+
         <form class="col s12" method="post"　onsubmit="return true;"　action="">
             <div class="row">
                 <div class="input-field col s12">
@@ -64,23 +125,99 @@
             </div>
 
 
-{#            <div class="row">#}
-{#                <div class="input-field col s12">#}
-{#                    <div class="autocomplete" id="multiple">#}
-{#                        <div class="ac-users"></div>#}
-{#                        <div class="ac-input">#}
-{#                            <input type="text" name="single2" id="multipleInput" placeholder="Please input some letters" data-activates="multipleDropdown" data-beloworigin="true" autocomplete="off">#}
-{#                            <input type="submit" value="search">#}
-{#                        </div>#}
-{#                        <ul id="multipleDropdown" class="dropdown-content ac-dropdown"></ul>#}
-{#                        <input type="hidden" name="multipleHidden" />#}
-{#                    </div>#}
-{#                    <label class="active" for="multipleInput">Multiple autocomplete: </label>#}
-{#                </div>#}
-{#            </div>#}
+
+        </form>
+    </div>
+
+    <div class="row">
+        <h4 style="padding-top: 10%" class="col s12" id="title_ajax">検索する文を入力してください(ajax)</h4>
+        <form class="form-signin" action="/signUp" method="post" role="form">
+            <input type="email" name="keyword" class="form-control" placeholder="keyword" required autofocus>
+
+
+            <button class="btn btn-lg btn-primary btn-block" type="button" id="ajax_search">Search_ajax </button>
         </form>
     </div>
 </div>
+
+{% if flag_json %}
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+
+    <h4 style="color: white">検査する文：”{{ keyword }}”</h4>
+</nav>
+
+<div class="row">
+    <div class="col-2" style="background: #90a4ae">
+        <form>
+            <div class="custom-control custom-checkbox" style="margin-left: 5%" >
+                <h5 style="padding: 5% 0% 0% 0%">フィルター</h5>
+                <input type="checkbox" class="custom-control-input" id="filter1" name="filter1" onclick="filter()" checked>
+                <label class="custom-control-label" for="filter1"><h4>作者名</h4></label>
+                </br>
+            </div>
+            <div class="custom-control custom-checkbox"style="margin-left: 5%">
+                <input type="checkbox" class="custom-control-input" id="filter2" name="filter2" onclick="filter()" checked>
+                <label class="custom-control-label" for="filter2"><h4>作品名</h4></label>
+                </br>
+            </div>
+            <div class="custom-control custom-checkbox"style="margin-left: 5%">
+                <input type="checkbox" class="custom-control-input" id="filter3" name="filter3" onclick="filter()" checked>
+                <label class="custom-control-label" for="filter3" style="padding: 0% 0% 300% 0% "><h4>作品内容</h4></label>
+            </div>
+        </form>
+    </div>
+    <div class="col-10">
+        <div id="result1" style="display:block">
+            <h5 style=" position: -webkit-sticky;position: sticky;top:0;background: #880e4f;color: white;padding: 1% 0% 1% 3%; border-bottom: 2px solid greenyellow;" >一致した作者名は{{len_writer}}件でした</h5>
+            {% if list_writer %}
+            {% for writer in list_writer %}
+            <div style="border-bottom: 1px solid #1E88E5 ">
+                <h4> {{writer[1]}}</h4>
+                <p><a href="{{ writer[2] }}">青空文庫のページを見る</a> </p>
+            </div>
+            {% endfor %}
+            {%else%}
+            <h6>一致した作者名はありません</h6>
+            {% endif %}
+        </div>
+
+        <div id="result2" >
+            <h5 style=" position: -webkit-sticky;position: sticky;top:0;background: #880e4f;color: white;padding: 1% 0% 1% 3%;border-bottom: 2px solid greenyellow;" >一致した作品名は{{len_work}}件でした</h5>
+            {% if list_work %}
+            {% for work in list_work %}
+            <div style="border-bottom: 1px solid #1E88E5 ">
+                <h4> {{work[3]}}</h4>
+                <p><b>{{work[1]}}</b><br><a href="{{work[4]}}">青空文庫のページを見る</a> </p>
+            </div>
+            {% endfor %}
+            {%else%}
+            <h6>一致した作品名はありません</h6>
+            {% endif %}
+        </div>
+
+        <div id="result3">
+            <h5 style=" position: -webkit-sticky;position: sticky;top:0;background: #880e4f;color: white;padding: 1% 0% 1% 3%;border-bottom: 2px solid greenyellow;" >一致した作品の内容は{{len_free}}件でした</h5>
+            {% if list_free %}
+            {% for free in list_free %}
+            <h4> {{free['title']}}</h4>
+            <b>{{free['writer']}}</b>
+            <br>
+            <a href={{free['url']}}>青空文庫のページを見る</a>
+            <div style="border-bottom: 1px solid #19549b ;border-top: #2ab7a9 1px solid">
+
+                <p> {{free['context']}}</p>
+            </div>
+
+            {% endfor %}
+            {%else%}
+            <h6>一致した作品の内容はありません</h6>
+            {% endif %}
+        </div>
+    </div>
+
+</div>
+
+{% endif %}
 <script src="{{ url_for('static', filename='js/jquery.materialize-autocomplete.js')}}"></script>
 <script src="{{ url_for('static', filename='js/autocomplete.js')}}"></script>
 

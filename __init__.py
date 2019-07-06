@@ -37,9 +37,12 @@ def create_app(test_config=None):
     db.init_app(app)
 
     # apply the blueprints to the app
-    from . import index, search
+    from . import index, search, search_ajax
     app.register_blueprint(index.bp)
     app.register_blueprint(search.bp)
+    app.register_blueprint(search_ajax.bp)
+
+
 
     # make url_for('index') == url_for('blog.index')
     # in another app, you might define a separate main index here with

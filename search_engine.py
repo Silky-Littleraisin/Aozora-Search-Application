@@ -11,6 +11,8 @@ final=re.compile('&lt;/proto|proto&gt;|&lt;proto')
 pattern1=re.compile('<proto>.*?</proto>')
 pattern2=re.compile('<proto> <b class="match term0">.*?</b> </proto>')
 pattern3=re.compile('<proto>|</proto>')
+zhushi=re.compile('［＃.*?］')
+
 def full_textsearch(key,top,surround):
     ix = open_dir("/Users/silky/Documents/GitHub/full_text_search","engine2") #作成したインデックスファイルのディレクトリを指定
     with ix.searcher() as searcher:
@@ -47,6 +49,7 @@ def full_textsearch(key,top,surround):
             tem=pattern3.sub('',tem)
             tem=tem.replace(' ','')
             tem=tem.replace('<bclass="matchterm0">','<b class="matchterm0">')
+            tem=zhushi.sub('',tem)
 
             dict['context'] = tem
 
